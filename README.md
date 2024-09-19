@@ -1,2 +1,14 @@
-# Advent
-A dithering algorithm with edge recognition capabilities 
+<h1><b><i>ADVENT</i></b></h1> 
+<h7> Activated Density Via Edge and Nodal Transfer</h7>
+<br>
+<h3> This project will open soon</h3>
+<br>
+<h3><a href="https://codepen.io/idaeyus/full/QWXevmy">Website</a></h3>
+<br>
+<h3><a href="https://x.com/Idaeyus/status/1836686926369231032">View the announcement</a></h3>
+<br>
+<h3><a href="https://x.com/opaeoh/status/1836687697693253761">Try it early</a></h3>
+<br>
+<h3><a href="https://codepen.io/idaeyus/full/QWXevmy">CodePen</a></h3>
+
+ 
